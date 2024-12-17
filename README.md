@@ -2,4 +2,4 @@
 
 Current focus: Python
 Tinkered with: JavaScript, HTML, CSS, AWS, Terraform ...
-I like: [music](https://open.spotify.com/user/1132137720?si=eff189baabe946d9)
+I like: [music](https://open.spotify.com/user/1132137720?si=eff189baabe946d9), video games, long walks and power naps.
