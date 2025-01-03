@@ -4,4 +4,4 @@ Some of what I've tinkered with so far ...
   
 [![My Skills](https://skillicons.dev/icons?i=py,postgres,bash,aws,terraform,fastapi,git,js,html,css,linux)](https://skillicons.dev)
   
-I like music, video games, long walks and power naps.
+I like music, puzzles, games, long walks and power naps.
